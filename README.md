@@ -4,6 +4,7 @@
 
 ## Sprint 01 | April 13-17
 **Stories & Sub-Tasks**
+- [x] EventBridge Storming — How to build state-of-the-art Event-Driven Serverless Architectures. 
 - [ ] Compare Machine Learning Tools and Frameworks
 - [ ] Learn to build, train and deploy with SageMaker
 - [ ] Learn about Security for SageMaker Notebooks
